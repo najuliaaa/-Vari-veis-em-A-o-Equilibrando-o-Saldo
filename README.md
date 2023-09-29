@@ -20,6 +20,6 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 | Entrada (saldoAtual, valorDeposito, valorRetirada) | Saída (Saldo Atualizado) |
 |----------------------------------------------------|--------------------------|
-| 1000.0, 500.0, 200.0                               | 1300.0                   |
-| 1500.0, 300.0, 400.0                               | 1400.0                   |
-| 2000.0, 0.0, 1000.0                                | 1000.0                   |
+| 1000, 500, 200                                     | 1300.0                   |
+| 100,  10,  50                                      | 60.0
+| 4000, 1500, 200                                    | 1000.0                   |
